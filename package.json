@@ -1,6 +1,6 @@
 {
 	"name": "eoscr-theme",
-	"version": "1.1.0",
+	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
 	"directories": {
@@ -13,16 +13,16 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/JustinCast/eoscr-theme.git"
+		"url": "git+https://github.com/eoscostarica/eoscr-theme.git"
 	},
 	"keywords": [],
 	"author": "JustinCast",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/JustinCast/eoscr-theme/issues"
+		"url": "https://github.com/eoscostarica/eoscr-theme/issues"
 	},
-	"homepage": "https://github.com/JustinCast/eoscr-theme#readme",
+	"homepage": "https://github.com/eoscostarica/eoscr-theme#readme",
 	"publishConfig": {
-		"registry": "https://npm.pkg.github.com/@justincast"
+		"registry": "https://npm.pkg.github.com/@eoscostarica"
 	}
 }
