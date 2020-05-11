@@ -1,8 +1,9 @@
 {
-	"name": "eoscr-theme",
-	"version": "1.0.0",
+	"name": "@eoscostarica/eoscr-theme",
+	"version": "1.0.1",
 	"description": "",
-	"main": "index.js",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
 	"directories": {
 		"test": "test"
 	},
@@ -21,8 +22,5 @@
 	"bugs": {
 		"url": "https://github.com/eoscostarica/eoscr-theme/issues"
 	},
-	"homepage": "https://github.com/eoscostarica/eoscr-theme#readme",
-	"publishConfig": {
-		"registry": "https://npm.pkg.github.com/@eoscostarica"
-	}
+	"homepage": "https://github.com/eoscostarica/eoscr-theme#readme"
 }
