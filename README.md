@@ -1,6 +1,6 @@
 # EOS Costa Rica standard theme
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 At EOS Costa Rica we believe is important to have a standard theme across our several projects, that will allow us a faster developments of our web apps and at the same time it's availabe for anyone who will want to use it.
 # Project structure
@@ -42,6 +42,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/JustinCast"><img src="https://avatars1.githubusercontent.com/u/17890146?v=4" width="100px;" alt=""/><br /><sub><b>JustinCast</b></sub></a><br /><a href="https://github.com/eoscostarica/eoscr-theme/commits?author=JustinCast" title="Code">💻</a> <a href="https://github.com/eoscostarica/eoscr-theme/commits?author=JustinCast" title="Documentation">📖</a> <a href="#projectManagement-JustinCast" title="Project Management">📆</a> <a href="#maintenance-JustinCast" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="http://eoscostarica.io"><img src="https://avatars1.githubusercontent.com/u/1179619?v=4" width="100px;" alt=""/><br /><sub><b>Jorge Murillo</b></sub></a><br /><a href="#design-murillojorge" title="Design">🎨</a></td>
   </tr>
 </table>
 
