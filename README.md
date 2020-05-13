@@ -3,6 +3,22 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 At EOS Costa Rica we believe is important to have a standard theme across our several projects, that will allow us a faster developments of our web apps and at the same time it's availabe for anyone who will want to use it.
+# Instalation
+```
+$ npm i -S @eoscostarica/eoscr-theme
+```
+If you prefer to use yarn:
+```
+yarn add @eoscostarica/eoscr-theme
+```
+> Note: _if  you're reading this from Github Packages, **yarn is not supported yet**. You can see the entire list of supported package managers right [here](https://help.github.com/en/packages/publishing-and-managing-packages/about-github-packages#supported-clients-and-formats)_.
+# Usage
+```
+import { EOSCR_THEME } from "@eoscostarica/eoscr-theme";
+...
+...
+let primaryColor = EOSCR_THEME.colors.primary.base;
+```
 # Project structure
 ```
 ├── dist
