@@ -32,13 +32,13 @@ let primaryColor = EOSCR_THEME.colors.primary.base;
 # Theme's object general structure
 ```
 EOSCR_THEME
-├── colorScheme
+├── palette
 |   ├── primary
 |   |   ├── ...
 |   |   secondary
 |   |   ├── ...
 ├── typography
-|   ├── fontFamilies
+|   ├── fontFamily
 |   |   ├── ...
 |   ├── h1
 |   |   ├── ...
