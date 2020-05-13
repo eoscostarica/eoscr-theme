@@ -1,7 +1,9 @@
 export declare const EOSCR_THEME: {
-    colorScheme: {
+    palette: {
         primary: {
-            base: string;
+            main: string;
+            light: string;
+            contrastText: string;
             800: string;
             700: string;
             600: string;
@@ -19,7 +21,10 @@ export declare const EOSCR_THEME: {
             disabledBlackText: string;
         };
         secondary: {
-            base: string;
+            main: string;
+            light: string;
+            dark: string;
+            contrastText: string;
             900: string;
             800: string;
             700: string;
@@ -39,10 +44,7 @@ export declare const EOSCR_THEME: {
         };
     };
     typography: {
-        fontFamilies: {
-            ptSans: string;
-            openSans: string;
-        };
+        fontFamily: string;
         h1: {
             size: string;
             letterSpacing: string;
