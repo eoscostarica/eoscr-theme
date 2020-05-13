@@ -29,7 +29,7 @@ let primaryColor = EOSCR_THEME.colors.primary.base;
 ├── README.md
 └── tsconfig.json
 ```
-# Theme object general structure
+# Theme's object general structure
 ```
 EOSCR_THEME
 ├── colorScheme
