@@ -9,7 +9,7 @@ $ npm i -S @eoscostarica/eoscr-theme
 ```
 If you prefer to use yarn:
 ```
-yarn add @eoscostarica/eoscr-theme
+$ yarn add @eoscostarica/eoscr-theme
 ```
 > Note: _if  you're reading this from Github Packages, **yarn is not supported yet**. You can see the entire list of supported package managers right [here](https://help.github.com/en/packages/publishing-and-managing-packages/about-github-packages#supported-clients-and-formats)_.
 # Usage
